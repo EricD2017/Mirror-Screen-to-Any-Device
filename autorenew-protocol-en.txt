@@ -1,0 +1,11 @@
+[Service Description]
+
+1. Auto-Subscription Service
+1.1 Service Names: Monthly Subscription (1 month), Quarterly Subscription (3 month), Annual Subscription (1 year)
+1.2 Service Prices: Monthly Subscription at $2.99 per month, Quarterly Subscription at $5.99 per quarter, Annual Subscription at $14.99 per year
+
+3. Payment: Users will confirm their purchase and make payment through their iTunes account.
+
+3. Auto-renewal of Subscribed Accounts: For users who have purchased the auto-subscription membership, the account will be charged 24 hours before the expiration of each monthly subscription period, and the subscription will be extended for another subscription cycle upon successful payment.
+
+4. To Cancel Renewal: To cancel the auto-renewal feature, please manually disable it in the iTunes/Apple ID device management at least 24 hours before the current subscription period ends.
